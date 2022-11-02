@@ -1,5 +1,5 @@
 ## Hi there 👋, ACUL here
-Yes, we are here to build some amazing products, keep yours open. We are soon coming to your phone.
+Yes, we are here to build some amazing products, keep your eyes open. We are soon coming to your phone.
 ACUL is an agriculural finetech product that aims at bridging the gap between farmers, customers and suppliers.
 [![Backed Lint:](https://badge.buildkite.com/ff456452b5225774b288783aec54829bdb7a40734d027f15ff.svg)](https://buildkite.com/miv/backend-lint)
 # 🚀🚀ACUL🚀🚀
